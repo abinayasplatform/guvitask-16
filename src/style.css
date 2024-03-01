@@ -1,0 +1,26 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+#para{
+    background-color:cornflowerblue;
+    font-size: 40px;
+    display:flex;
+    justify-content:center ;
+    align-items: center;
+    font-family:cursive;
+    color:honeydew
+}
+
+#displayCountDown{
+    display:flex;
+    justify-content:center ;
+    align-items: center;
+    border:3px solid black;
+    background-color:khaki ;
+    height:50px;
+    padding:30px;
+    margin: auto 500px;
+    font-family:cursive;
+}
